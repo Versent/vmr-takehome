@@ -30,9 +30,8 @@ You may make the following assumptions:
 ## Submission
 Your submission should consist of:
 1. The public URL endpoint of your API
-2. Your source code; either as a link to a private GitHub repository; or as a .zip via email to your interviewer's email address.
-
-We kindly ask that you keep the details of this technical challenge private.
+2. Your source code - as a link to a GitHub repository (or other public git provider)
+3. A declaration of any AI or outside assistance used. Honest and skillful use of available tools is highly regarded; conversely, blind or deceptive abuse is heavily frowned upon.
 
 ## Marking Criteria
 Your submission will be judged on:
